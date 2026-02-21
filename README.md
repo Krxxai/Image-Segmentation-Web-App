@@ -3,7 +3,6 @@
 
 This project demonstrates semantic image segmentation using DeepLabV3, implemented both as a Streamlit prototype and as a Flask + React production-style application.
 
-Semantic image segmentation using DeepLabV3.
 
 ## Technologies
 - Python, PyTorch, DeepLabV3
