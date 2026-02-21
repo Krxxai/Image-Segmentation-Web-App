@@ -1,3 +1,4 @@
+
 # Image Segmentation Web App
 
 Semantic image segmentation using DeepLabV3.
@@ -36,3 +37,6 @@ docker-compose up
 
 ## Model
 Pre-trained DeepLabV3 ResNet50 on COCO dataset.
+
+# Image-Segmentation-Web-App
+Semantic Image Segmentation Web App using DeepLabV3, Flask, React and Streamlit with Docker deployment
